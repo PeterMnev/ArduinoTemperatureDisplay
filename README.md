@@ -8,8 +8,9 @@ Project which allows you to display temperature and humidity data on a 4 Digit L
 2. MM5486N - LED Display Driver
 3. 4 Digit 7 Segment LED Display. Total of 32 Segments 
 
+TODO:
 ### Project Setup
-TO BE ADDED
+
 
 
 
